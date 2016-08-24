@@ -1,2 +1,0 @@
-# dipl
-# diplomski
